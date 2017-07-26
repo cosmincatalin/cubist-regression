@@ -22,7 +22,7 @@ You can shorten the time by selecting a subset of the input data with something 
 
 The purpose of making these predictions is to show how slow it runs :)
 
-### Using Vanilla R for Making Predictions
+### Using SparkR for Making Predictions
 
 This is the slightly more involved but much faster method. This will take less than an hour on the appropriately sized cluster. This is what you are here for. The guide expects that you use an AWS account and that you're willing to spend around 3$ on and all. I also assume that you know your way around AWS, if you have problems following these guidelines, you are welcome to contact me.
     

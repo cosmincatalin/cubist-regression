@@ -1,6 +1,6 @@
 ## Cubist Regression on Stack Overflow Data
 
-This application supports an [article](https://cosminsanda.com/posts/a-compelling-case-for-sparkr/) on my blog where I present a use case appropiate for `SparkR`.
+This application supports an [article](https://cosminsanda.com/posts/a-compelling-case-for-sparkr/?utm_source=github&utm_medium=repository&utm_campaign=na) on my blog where I present a use case appropiate for `SparkR`.
 
 This problem that I am trying to solve is that of predicting the number of *views* Stack Overflow questions have based on a few attributes.
 
